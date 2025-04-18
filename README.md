@@ -1,6 +1,6 @@
 # 🧰 SQL Server DBA Projects (Internship at ADY)
 
-Hey! 👋 This repo includes a full set of SQL Server DBA projects I worked on during my internship at ADY (Azerbaijan Railways), guided by Rauf Asasdov.
+Hey! 👋 This repo includes a full set of SQL Server DBA projects I worked on during my internship at ADY (Azerbaijan Railways), guided by Rauf Asadov.
 
 These tasks helped me understand what it really means to be a DBA — from setting up backups to analyzing error logs.
 
