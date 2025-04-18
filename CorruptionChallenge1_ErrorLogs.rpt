@@ -1,0 +1,13 @@
+﻿Msg 8944, Level 16, State 13, Line 1
+Table error: Object ID 245575913, index ID 1, partition ID 72057594040614912, alloc unit ID 72057594045857792 (type In-row data), page (1:280), row 3. Test (ColumnOffsets <= (nextRec - pRec)) failed. Values are 3139 and 288.
+Msg 8944, Level 16, State 13, Line 1
+Table error: Object ID 245575913, index ID 1, partition ID 72057594040614912, alloc unit ID 72057594045857792 (type In-row data), page (1:280), row 3. Test (ColumnOffsets <= (nextRec - pRec)) failed. Values are 3139 and 288.
+Msg 8928, Level 16, State 1, Line 1
+Object ID 245575913, index ID 1, partition ID 72057594040614912, alloc unit ID 72057594045857792 (type In-row data): Page (1:280) could not be processed.  See other errors for details.
+Msg 8976, Level 16, State 1, Line 1
+Table error: Object ID 245575913, index ID 1, partition ID 72057594040614912, alloc unit ID 72057594045857792 (type In-row data). Page (1:280) was not seen in the scan although its parent (1:281) and previous (1:246) refer to it. Check any previous errors.
+CHECKDB found 0 allocation errors and 4 consistency errors in table 'Revenue' (object ID 245575913).
+CHECKDB found 0 allocation errors and 4 consistency errors in database 'CorruptionChallenge1'.
+repair_allow_data_loss is the minimum repair level for the errors found by DBCC CHECKDB (CorruptionChallenge1).
+
+Completion time: 2025-02-01T12:11:53.4108357-08:00
